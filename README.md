@@ -40,6 +40,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # SAME VIEW STATE
 ![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/d5563f34-83a0-4cbf-a224-e9256e9f737e)
 
+## CARDS
+![image](https://github.com/AryamanParida/Kanban-board-application/assets/77320949/0d3fa7df-7e79-4bc4-8056-4d52b526c58a)
 
 ## Available Scripts
 
