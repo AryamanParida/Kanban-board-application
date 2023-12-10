@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+.tag
+{
+    display: flex;
+    /* flex-direction: column; */
+    gap:10px;
+    width: fit-content;
+    /* align-items: center; */
+    margin-bottom: 10px;
+    padding: 7px;
+    padding-bottom: 9px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: white;
+    color: grey;
+    border:1px solid rgba(239, 236, 236, 0.912);
+=======
+.tag
+{
+    display: flex;
+    /* flex-direction: column; */
+    gap:10px;
+    width: fit-content;
+    /* align-items: center; */
+    margin-bottom: 10px;
+    padding: 7px;
+    padding-bottom: 9px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: white;
+    color: grey;
+    border:1px solid rgba(239, 236, 236, 0.912);
+>>>>>>> 72b503cdd826ba110024b816ad86b2d978906f18
+}
